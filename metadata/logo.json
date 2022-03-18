@@ -1,0 +1,15 @@
+{
+    "name": "Kelley Lilyana",
+    "description":"This is stickman Nft #1",
+    "image":"https://ipfs.io/ipfs/QmfTjDrJPuBL5AEcnc9yqhFctpNeK432QGevbw3qiTY9WB",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "67e18491-4837-4272-abea-e8a9fb1b3d77",
+        },
+        {
+            "trait_type": "WinCount",
+            "value": 5
+        }
+    ]
+}
